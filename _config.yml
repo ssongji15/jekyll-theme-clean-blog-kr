@@ -1,12 +1,12 @@
-title:              "블로그 제목"
-tagline:            "블로그 슬로건"
-email:              "your-email@example.com"
-description:        "블로그 설명"
-author:             "작성자 이름"
-baseurl:            "/"
-url:                "https://도메인"
+title:              "마케티파이"
+tagline:            "Marketify : 마케터의 아카이브 블로그"
+email:              "ssongji15@naver.com"
+description:        "자동차 마케터가 보여주는 업계 및 디지털 마케팅 이야기"
+author:             "송하몽"
+baseurl:            ""
+url:                "https://mmktify.com"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
+thumbnail:          "/img/main_thumbnail.jpg"
 
 # Social Profiles
 twitter_username:   twitter_username
