@@ -10,7 +10,7 @@ thumbnail:          "/img/main_thumbnail.jpg"
 
 # Social Profiles
 twitter_username:   twitter_username
-instagram_username: instagram_username
+instagram_username: support.song
 facebook_username:  facebook_username
 linkedin_username:  linkedin_username
 
@@ -21,3 +21,8 @@ paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-paginate
+
+
+# 블로그 disqus shortname
+disqus:
+  shortname: http-mmktify-com
