@@ -1,5 +1,5 @@
 title:              "마케티파이"
-tagline:            "Marketify : 마케터의 아카이브 블로그"
+tagline:            "Marketify : 송하몽의 마케팅 블로그"
 email:              "ssongji15@naver.com"
 description:        "자동차 마케터가 보여주는 업계 및 디지털 마케팅 이야기"
 author:             "송하몽"
@@ -12,7 +12,7 @@ thumbnail:          "/img/main_thumbnail.jpg"
 twitter_username:   twitter_username
 instagram_username: support.song
 facebook_username:  facebook_username
-linkedin_username:  linkedin_username
+linkedin_username:  in/jiwonsong921101
 
 # Build settings
 markdown:           kramdown
