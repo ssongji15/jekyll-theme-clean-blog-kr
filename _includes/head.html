@@ -96,16 +96,18 @@
 <!-- End Favicon Tag -->
 
 <!-- 비 AMP Tag -->
-  {% if page.feature %}
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "NewsArticle",
-    "headline": "{{ page.title }}",
-    "image": "{{ site.github.url }}{{ page.feature }}",
-    "datePublished": "{{ page.date | date_to_xmlschema }}",
-  }
-  </script>
+{% if page.feature %}
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "{{ page.title }}",
+        "image": [
+          "{{ site.github.url }}{{ page.feature }}"
+         ],
+        "datePublished": "{{ page.date | date_to_xmlschema }}"
+      }
+    </script>
   {% endif %}
 <!-- End 비 AMP Tag -->
 
