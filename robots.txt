@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mmktify.com/sitemap.xml
+
+#DaumWebMasterTool:d34d54df6cb8d080c1c5f035012612959752321afa4c88e1c977818eb76ef81c:SBDn+3M1gAUD2c6N/ci3rg==
