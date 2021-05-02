@@ -102,9 +102,7 @@
     "@context": "https://schema.org",
     "@type": "NewsArticle",
     "headline": "{{ page.title }}",
-    "image": [
-      "{{ site.github.url }}{{ page.feature }}",
-     ],
+    "image": "{{ site.github.url }}{{ page.feature }}",
     "datePublished": "{{ page.date | date_to_xmlschema }}",
   }
   </script>
