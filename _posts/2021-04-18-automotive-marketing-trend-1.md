@@ -1,9 +1,9 @@
 ---
 layout: post
-permalink: automotive/automotive-marketing-trend/
+permalink: /automotive-marketing-trend/
 title: '2021년 디지털 자동차 마케팅 트렌드'
 date: 2021-04-18 12:00:00 +09:00
-feature: '/img/posts/automotive-marketing-trend-1/thumbnail.jpeg'
+feature: '/img/posts/01_automotive-marketing-trend-1/thumbnail.jpeg'
 categories:
   - automotive
 tags:
@@ -26,7 +26,7 @@ description: '전기차, 비대면, 디지털 등 빠르고 다양하게 변화�
 
 새로운 차량을 구입하기 위해 최고의 제안을 제공하는 딜러사를 찾기 위해 단순히 오프라인으로 전시장을 방문하는 시대는 지났다. 메조미디어 2020 자동차 업종 리포트의 서베이에 의하면, **포털사이트를 통해 자동차 정보를 획득하는 소비자가 25%로 가장 많은 것으로 나타났다.** 그 외에도 유튜브 영상 및 블로그/카페, 브랜드 공식 사이트, SNS 등 온라인에서 정보를 얻는다는 답변이 그 뒤를 이으며, 88디지털 환경에서의 정보 검색이 다수**를 이루는 것을 알 수 있다.
 
-![survey](/img/posts/automotive-marketing-trend-1/1_survey.jpeg)
+![survey](/img/posts/01_automotive-marketing-trend-1/1_survey.jpeg)
 
 자동차 산업의 소프트웨어 및 디지털 서비스업체 GForces Australia의 비즈니스 개발관리자 잭 미들턴(Jack Middleton)은 오늘날의 자동차 마케팅에 대해 아래와 같이 말한다.
 
@@ -48,7 +48,7 @@ description: '전기차, 비대면, 디지털 등 빠르고 다양하게 변화�
 
 BMW코리아도 'BMW 샵 온라인'을 통해 한정 에디션을 판매하면서 온라인 판매를 진행 중이다. BMW는 지난해 총 20가지 470여대의 온라인 한정 에디션을 오직 BMW 샵 온라인을 통해서만 판매했다. BMW 샵 온라인의 성공을 바탕으로 프리미엄 소형차 브랜드 MINI의 온라인 판매 채널 'MINI 샵 온라인'도 론칭했다. MINI 샵 온라인 역시 희소성과 소장 가치를 지닌 MINI의 한정판 모델을 판매한다.
 
-![minionlineshop](/img/posts/automotive-marketing-trend-1/2_minionlineshop.jpg)
+![minionlineshop](/img/posts/01_automotive-marketing-trend-1/2_minionlineshop.jpg)
 
 벤츠 코리아는 지난 2019년 통합 디지털 세일즈 플랫폼인 '세일즈 터치'를 처음 도입한 데 이어 지난 해에는 애프터세일즈 서비스 주요 과정을 언택트 방식으로 이용할 수 있는 '디지털 서비스 드라이브' 서비스를 본격적으로 시작했다.
 
@@ -56,7 +56,7 @@ BMW코리아도 'BMW 샵 온라인'을 통해 한정 에디션을 판매하면�
 
 수입차 업체들의 온라인 판매가 강화되며 대리점 중심의 전통적 판매를 고수하고 있는 **국내 완성차업체 역시 변화를 요구받고 있지만 현대차·기아 판매노조가 고용이 불안정해질 수 있다는 위기감으로 온라인 판매를 강하게 반대하고 있어, 온라인 전환이 쉽지 않은 상황이다.** 기아가 첫 전용 전기차 'EV6'의 사전예약을 온라인으로 진행하고자 했으나, 기아 판매노조의 강력한 반대로 무산된 바 있다.
 
-![kiaEV6](/img/posts/automotive-marketing-trend-1/3_kiaev6.jpeg)
+![kiaEV6](/img/posts/01_automotive-marketing-trend-1/3_kiaev6.jpeg)
 
 COVID-19로 전세계적으로 비대면 트렌드가 확산되고 있는 현재, 온라인 판매 등 새로운 판매 경로 확산이 필요하나, 급격한 판매 방식 변화로 인한 대면 영업 조직의 고용 안정성을 지킬 수 있는 방안 역시 빠른 시일 내 강구할 필요가 있다.
 
@@ -71,13 +71,13 @@ COVID-19로 전세계적으로 비대면 트렌드가 확산되고 있는 현재
 자동차 디지털 마케팅 업체 Calibre Group Solutions의 디지털 디렉터인 제이콥 소티리스(Jacob Sotiris)는 아래와 같이 말한다.
 >소비자들은 그들이 좋아하는 인플루언서 또는 TV 스타가 제품이나 서비스를 추천하는 경우, 보다 긍정적으로 받아들이게 됩니다. 실제로 이 사람을 모르더라도 온라인에서 잠재 의식적 관계를 구축해왔기 때문에 이러한 인플루언서들을 신뢰하게 됩니다.
 
-![carreview](/img/posts/automotive-marketing-trend-1/4_carreview.jpg)
+![carreview](/img/posts/01_automotive-marketing-trend-1/4_carreview.jpg)
 
 제이콥은 오늘날 디지털에서 능동적으로 행동하고, 물리적으로 고객을 직접 대면할 필요없이 온라인으로 고객과 연결점을 구축하고, 고객이 머무는 환경에 함께 존재하는 것이 자동차 산업이 미래로 나아가는 강력한 원동력이 될 것이라고 결론지었다.
 
 국내에서도 대다수의 소비자가 자동차 시승 및 정보 제공 영상을 통해 다양한 차량 정보를 얻기 때문에 긍정적인 브랜드 포지셔닝 및 마케팅을 위해서라도 영상을 적극적으로 활용하고자 한다. 인플루언서 시승 영상 제작 뿐만 아니라 TV PPL 뿐만 아니라 자동차 인플루언서가 아닌 다양한 라이프스타일 인플루언서 PPL로 확대하고 있다. 또한, 이제는 신차 출시 시 온라인 컨퍼런스를 통해 실시간으로 대중에게 차량을 소개하고 정확한 정보를 직접적으로 제공하기도 한다. 최근 기아의 새로운 중대형 세단 K8 출시 시, 온라인으로 쇼케이스를 열어 세부적인 차량에 대한 다양한 이야기를 대중에게 전하고 본격적인 판매를 시작했다.  
 
-![showcase](/img/posts/automotive-marketing-trend-1/5_kiaonlineshowcase.jpg)
+![showcase](/img/posts/01_automotive-marketing-trend-1/5_kiaonlineshowcase.jpg)
 
 ## 글을 마치며
 
