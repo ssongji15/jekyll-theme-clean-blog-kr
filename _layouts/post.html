@@ -52,3 +52,13 @@ layout: default
       </div>
     </div>
   </article>
+  <script>
+  var event = document.querySelector('#post-content');
+  event.addEventListener("click", function( ) {
+    gtag('event', '보기', {
+    'event_category': '글',
+    'event_label': '{{page.title}}',
+    'value': 10
+    });
+    }, false);
+  </script>
