@@ -35,7 +35,7 @@ ___
 
 만타는 1970년대 처음 등장해 쿠페와 해치백으로 판매된 모델로 1988년 단종됐다. 이후 오펠이 순수 전기차 복원 프로젝트로 만타A 모델을 선택하면서 ‘만타 GSe 일렉트로모드’라는 이름으로 세상에 다시 나오게 됐다.
 
-💡 [오펠 만타 Gse 프리미어 영상] (https://www.youtube.com/watch?v=7seM10WTdAs)
+💡 [오펠 만타 Gse 프리미어 영상](https://www.youtube.com/watch?v=7seM10WTdAs)
 
 
 #### 푸조 e-레전드 (e-Legend)
