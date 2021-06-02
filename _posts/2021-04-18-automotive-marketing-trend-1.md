@@ -5,7 +5,7 @@ title: '2021년 디지털 자동차 마케팅 트렌드'
 date: 2021-04-18 12:00:00 +09:00
 feature: '/img/posts/01_automotive-marketing-trend-1/thumbnail.jpeg'
 categories:
-  - automotive
+  - Automotive
 tags:
   - 자동차마케팅
   - 디지털마케팅

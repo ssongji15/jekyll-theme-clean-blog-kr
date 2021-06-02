@@ -5,7 +5,7 @@ title: '마린백서 (1) 나에게 딱 맞는 성과 측정 툴을 찾는 5가�
 date: 2021-04-25 20:00:00 +09:00
 feature: '/img/posts/02_adtracker01/thumbnail.png'
 categories:
-  - marketing
+  - marketingnewbie
 tags:
   - 마린백서
   - 광고 성과 분석툴
