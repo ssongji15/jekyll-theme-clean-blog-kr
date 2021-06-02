@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /retro-conceptcars/
-title: '돌고 돌아 레트로(Retro)로…그 때 그 시절 복고의 향수를 일으키는 레트로 컨셉트 카'
+title: '그 때 그 시절 향수를 일으키는 레트로 컨셉트 카'
 date: 2021-05-23 23:00:00 +09:00
 feature: '/img/posts/04_retro-conceptcars/thumbnails.jpg'
 categories:
@@ -13,7 +13,7 @@ tags:
   - 자동차 마케팅
   - 현대자동차 포니
 
-description: '돌아보면 참 이뻤더랬지..하는 클래식 카. 다양한 브랜드에서 레트로 트렌드에 맞춰 이전의 클래식 카의 유산을 이어가는 컨셉트 카들을 선보인다.'
+description: '돌고 돌아 복고로… 다양한 브랜드에서 선보인 레트로(Retro) 컨셉트 카'
 ---
 
 #### 🚗우리가 그리워한 그 때 그 시절 복고 감성에 첨단 기술까지🚗
