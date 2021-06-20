@@ -7,29 +7,23 @@ feature: '/img/posts/05_creative-campaigns/thumbnail.jpg'
 categories:
   - archive
 tags:
-  - 오펠 만타
-  - 푸조 레전드
-  - 컨셉트카
-  - 자동차 마케팅
-  - 현대자동차 포니
+  - 플랜터스
+  - 애플
+  - 이케아
+  - 브랜드 마케팅
 
-description: '돌고 돌아 복고로… 다양한 브랜드에서 선보인 레트로(Retro) 컨셉트 카'
+description: '흥겨워진 땅콩송부터 쓰레기 사이 가구들까지'
 ---
-
-#### 🚗우리가 그리워한 그 때 그 시절 복고 감성에 첨단 기술까지🚗
-
-레트로(Retro) 혹은 복고 감성은 자동차 업계에서도 틀림없이 통하는 공식이다. 1960-70년대를 풍미했던 컬러풀하고 다양한 디자인의 클래식 카들은 자동차 매니아들뿐만 아니라 일반 대중들 역시 언제나 꿈꾸는 로망일 것이라 생각한다.
-
-자동차 브랜드에서는 이러한 복고적인 소비자들의 니즈를 충족시켜주기 위해 전설적인 클래식 카에서 영감을 얻은 컨셉트 카들을 선보이곤 한다.
+브랜드 마케팅에 참고할 만한 전세계 최근 브랜드 아이디어 BEST 5를 모아봤다.
+출처: [AD AGE](https://adage.com/article/special-report-creativity-top-5/watch-top-5-creative-brand-ideas-you-need-know-about-right-now/2344576)
 
 ___
 
-#### 오펠 만타(Manta GSe 일렉트로모드)
-![오펠 만타](/img/posts/04_retro-conceptcars/01.jpg)
+#### 5. 플랜터스 Planters: Shake It LIke Dad 뮤직비디오
+{% include youtube.html id="92LssN6pcL8"%}
+[NEWS](https://www.adweek.com/social-marketing/mr-peanut-anthony-anderson-shake-it-like-dad-for-fathers-day/)
 
-이번 5월, 오펠은 오펠은 지난 1970년대 독일과 북미 시장에 판매됐던 스포츠 쿠페 만타를 기반으로 제작한 전기  컨셉트카 ‘만타 GSe 일렉트로모드(ELlectroMOD)’를 공개했다.
-
-1970년대 향수를 자극하는 레트로(복고) 풍 만타에서 영감을 얻은 만타 GSe 일렉트로모드는 그 당시 만타와 마찬가지로 4단 수동변속기 기반에 후륜구동을 고집한다. 하지만 최신 전기모터를 장착했으며, 헤드라이트와 라디에이터 그릴에는 픽셀 바이저(pixel-vizor)가 적용돼 다양한 그래픽과 메시지를 나타낼 수 있게 해 현대적인 감각을 더했다.
+아버지의 날을 위해 플랜터스(Planters; 견과류 브랜드)는 Mr. Peanut으로 칭해지는 안토니 앤더슨이라는 래퍼가 아빠들의 엉뚱하지만 사랑스러운 습관에 대해 경쾌한 뮤직비디오를 통해 경의를 보낸다. Vayner Media의 새로운 뮤직 비디오 스타일의 이 광고는 앤더슨과 아빠 그룹이 자랑스럽게 회사 장식 조끼를 입고 재채기하는 모습을 보여준다. 오리지널 음악인 "Shake It Like Dad"가 배경음악으로 깔려있는 것도 숨은 포인트. 광고를 보는 시청자들에게는 자신들이 좋아하는 아빠의 동작들을 영상으로 공유하는 틱톡 챌린지도 진행하고 있다.
 
 ![클래식 만타](/img/posts/04_retro-conceptcars/02.jpg)
 
