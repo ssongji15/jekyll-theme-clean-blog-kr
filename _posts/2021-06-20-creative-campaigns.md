@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /creative-campaign/
-title: 'WATCH NOW! 크리에이티브 브랜드 아이디어 BEST5'
+title: 'WATCH NOW! 따끈따끈한 브랜드 캠페인 BEST5'
 date: 2021-06-20 23:00:00 +09:00
 feature: '/img/posts/05_creative-campaigns/thumbnail.jpg'
 categories:
