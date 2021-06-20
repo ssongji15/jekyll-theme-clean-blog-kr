@@ -15,7 +15,8 @@ tags:
 
 description: '아빠를 위한 뮤비부터 무선을 갈망하는 디즈니 재질 뮤지컬, 환경을 생각하는 가구 브랜드까지'
 ---
-마케터라면 최근 지구촌에서 젤루 핫한 브랜드 마케팅 사례가 무엇인지 알고는 있어야 하는 법! 브랜드 마케팅에 참고할 만한 전세계 최근 브랜드 캠페인 BEST 5를 모아봤다.
+마케터라면 최근 지구촌에서 젤루 핫한 브랜드 마케팅 사례가 무엇인지 알고는 있어야 하는 법!
+브랜드 마케팅에 참고할 만한 **최신&참신한 브랜드 캠페인 BEST 5**를 모아봤다.
 
 출처: [AD AGE: THE TOP 5 CREATIVE BRAND IDEAS YOU NEED TO KNOW ABOUT RIGHT NOW](https://adage.com/article/special-report-creativity-top-5/watch-top-5-creative-brand-ideas-you-need-know-about-right-now/2344576)
 
@@ -73,5 +74,4 @@ ___
 
 항상 참신하고 재미난 브랜드 영상을 보며 느끼는 것,
 **"메세지는 간결하게, 영상은 담백하게, 여운은 오래도록"**
-
 하지만 이 3가지 모두 쉽지 않다는 것을 느낀다. 또 다시 새롭고 참신한 브랜드 케이스가 있다면 포스팅해보는 것으로!
