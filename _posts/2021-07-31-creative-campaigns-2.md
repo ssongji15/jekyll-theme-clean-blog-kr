@@ -55,7 +55,7 @@ Mattress Firm은 크고 창의적인 아이디어를 연상시키는 브랜드�
 
 #### 1. 비츠바이드레 (Beats by Dre) : Live Your Truth—Sha’Carri Richardson
 
-{% include youtube.html id="awTP7IUY3uo"%}
+{% include youtube.html id="q9lFaCkFN7I"%}
 
 미국의 트랙 위 스타인 단거리 스프린터 샤캐리 리차드슨(Sha'Carri Richardson)은 올림픽에 진출하지 못했지만 그녀의 스타성은 비츠바이드레의 신제품 스튜디오 버즈와 칸예 웨스트의 새 앨범 "Donda"를 홍보하는 애플의 광고에서도 빛을 발한다.
 
