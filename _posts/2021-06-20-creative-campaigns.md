@@ -1,7 +1,7 @@
 ---
 layout: post
-permalink: /creative-campaign/
-title: 'WATCH NOW! 따끈따끈한 브랜드 캠페인 BEST5'
+permalink: /creative-campaign-jun21/
+title: '2021년 6월 WATCH NOW! 따끈따끈한 브랜드 캠페인 BEST5'
 date: 2021-06-20 23:00:00 +09:00
 feature: '/img/posts/05_creative-campaigns/thumbnail.jpg'
 categories:
